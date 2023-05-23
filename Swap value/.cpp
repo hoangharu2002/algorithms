@@ -6,6 +6,8 @@ void SwapMethod1(int &a, int &b){
 
 int main() {
     int a = 1, b = 2;
+    //Print two value
+    std::cout << "a = " << a << " and b = " << b;
 
     //Print result
     std::cout << "a = " << a << " and b = " << b;
