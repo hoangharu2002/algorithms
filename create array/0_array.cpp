@@ -11,7 +11,7 @@ int main(){
     //create 0 array method 1
     int arr1[10] = {0};
 
-    //create 0 array
+    //create 0 array method 2
     int arr2[10];
     for (int i = 0; i < 10; ++i){
         arr2[i] = 0;
