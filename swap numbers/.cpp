@@ -15,7 +15,7 @@ int main() {
     //Method 1
     SwapMethod1(a, b);
 
-    //Print result
+    //Print swap result
     std::cout << "a = " << a << " and b = " << b;
 
     return 0;
