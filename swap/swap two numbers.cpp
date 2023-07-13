@@ -19,7 +19,7 @@ int main() {
     std::cout << "a = " << a << " and b = " << b;
 
     //Method 1
-    //swapMethod1(a, b);
+    swapMethod1(a, b);
 
     //Method 2
     swapMethod2(a, b);
